@@ -2,6 +2,20 @@
 
 I am Kirill Nikitenko, a passionate Software Engineer. I combine my experience in international communication and business ownership with a deep passion for building effective, real-world software solutions.
 
+### 🤝 Connect with Me
+
+<a href="https://github.com/Kirill-dev01" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<br>
+<a href="https://www.linkedin.com/in/[your-linkedin-profile](https://www.linkedin.com/in/kirill-nikitenko-8b600a375/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<br>
+<a href="https://github.com/Kirill-se/resume/raw/main/Kirill_Nikitenko_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/My_Resume_(CV)-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/></a>
+<br>
+<a href="https://t.me/[your_telegram_username](https://t.me/KirillNikitenko89)" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<br>
+<a href="https://wa.me/66635858122" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<br>
+<a href="mailto:kirillnam2201@gamil.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
 ---
 
 ### What I Do (My Tech Stack)
@@ -42,4 +56,3 @@ I am Kirill Nikitenko, a passionate Software Engineer. I combine my experience i
 
 * **Japanese Language Proficiency Test (JLPT) N2**
   * `[Link to a scan of your certificate if you wish]`
-
