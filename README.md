@@ -1,6 +1,6 @@
 # Hello! 👋
 
-A motivated and passionate Software Engineer with a strong foundation in Python. Equipped with hands-on experience developing applications and scripts from personal projects. A quick learner dedicated to writing clean, efficient code and eager to contribute to a forward-thinking development team.
+I'm motivated and passionate Software Engineer with a strong foundation in Python. Equipped with hands-on experience developing applications and scripts from personal projects. A quick learner dedicated to writing clean, efficient code and eager to contribute to a forward-thinking development team.
 
 ### 🤝 Connect with Me
 
