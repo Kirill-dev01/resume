@@ -1,4 +1,4 @@
-# Hello! 👋
+### 📄 Summary
 
 I'm motivated and passionate Software Engineer with a strong foundation in Python. Equipped with hands-on experience developing applications and scripts from personal projects. A quick learner dedicated to writing clean, efficient code and eager to contribute to a forward-thinking development team.
 
@@ -30,9 +30,6 @@ I'm motivated and passionate Software Engineer with a strong foundation in Pytho
 
 ---
 
-### 📄 Summary
-
-A passionate Software Engineer with a proven ability to independently develop a diverse range of applications. Gained practical experience by building and deploying backend chatbots (Telegram, VK) and web services. Currently expanding my skill set by developing a comprehensive desktop POS application and exploring mobile development. Eager to bring strong problem-solving skills and a love for continuous learning to a forward-thinking team.
 
 ### 🛠️ Technical Skills
 
