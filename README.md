@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am Kirill Nikitenko, a passionate Software Engineer. I combine my experience in international communication and business ownership with a deep passion for building effective, real-world software solutions.
+A motivated and passionate Software Engineer with a strong foundation in Python. Equipped with hands-on experience developing applications and scripts from personal projects. A quick learner dedicated to writing clean, efficient code and eager to contribute to a forward-thinking development team.
 
 ### 🤝 Connect with Me
 
