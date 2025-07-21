@@ -1,7 +1,7 @@
 # Kirill Nikitenko
 *Software Engineer*
 
-A passionate Software Engineer with a proven ability to independently develop a diverse range of applications. Gained practical experience by building and deploying backend chatbots (Telegram, VK) and web services. Currently expanding my skill set by developing a comprehensive desktop POS application and exploring mobile development. Eager to bring strong problem-solving skills and a love for continuous learning to a forward-thinking team.
+A motivated and passionate Software Engineer with a strong foundation in Python. Equipped with hands-on experience developing applications and scripts from personal projects.  A quick learner dedicated to writing clean, efficient code. At the present moment, besides working on my own projects, I am studying Front-End development.
 
 ---
 
@@ -54,11 +54,4 @@ A passionate Software Engineer with a proven ability to independently develop a 
 * **RPG Game Development:** Pursuing my passion for gaming by creating an RPG with complex logic using Pygame.
 * **Full-stack Python Program:** Formally expanding my knowledge at Netology (Expected graduation: July 2026).
 
----
-
-### 📊 My GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-</a>
 
