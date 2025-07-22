@@ -54,9 +54,7 @@ A motivated and passionate Software Engineer with a strong foundation in Python.
 
 ### 🚀 What I'm Currently Working On
 
-* **Desktop POS System:**
-* **Developing application for andriod:**
-* **Game Development(Pygame):**
-* **Full-stack Python Program:** Studying at Netology (Expected graduation: July 2026).
-
+* **Desktop POS System**
+* **Developing application for andriod**
+* **Game Development(Pygame)**
 
