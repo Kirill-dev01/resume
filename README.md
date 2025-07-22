@@ -17,6 +17,15 @@ A motivated and passionate Software Engineer with a strong foundation in Python.
 <img src="https://img.shields.io/badge/Download-My_Resume_(PDF)-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/>
 </a>
 
+###  My Resume
+
+You can find my full, up-to-date resume here.
+
+### [➡️ View my Resume (PDF)](./resume.pdf)
+
+Please feel free to reach out to me at [kirill_n89@mail.ru](mailto:kirill_n89@mail.ru).
+
+
 ---
 
 ### 👨‍💻 My Tech Stack
