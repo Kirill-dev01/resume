@@ -62,12 +62,11 @@ I am motivated and passionate Software Engineer with a strong foundation in Pyth
 
 ### 📜 My Certificates
 
-*You can click on the links to view the certificates.*
-
 * **Django** - *Netology, 2025*
     * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/Django.pdf)
 
 * **Database** - *Netology, 2025*
     * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/Data%20base.pdf)
 
- 
+* **Git** - *Netology, 2025*
+    * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/Git.pdf)
