@@ -64,9 +64,6 @@ A motivated and passionate Software Engineer with a strong foundation in Python.
 
 *You can click on the links to view the certificates.*
 
-**Django** - *Netology, 2025*
+* **Django** - *Netology, 2025*
     * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/Django.pdf)
-
-* **OOP and working with API** - *Netology, 2025*
-    * [View Certificate (PYAPI-120-9583979)](https://github.com/Kirill-dev01/resume/blob/main/certificate%20(2).pdf)
 
