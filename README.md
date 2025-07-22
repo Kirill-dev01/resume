@@ -13,7 +13,7 @@ A motivated and passionate Software Engineer with a strong foundation in Python.
 <a href="mailto:kirill_n89@mail.ru">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/yourusername/resume/raw/main/Kirill_Nikitenko_Resume.pdf" target="_blank">
+<a href="https://github.com/Kirill-dev01/resume/blob/main/Nikitenko-Kirill-Resume(eng).pdf" target="_blank">
 <img src="https://img.shields.io/badge/Download-My_Resume_(PDF)-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/>
 </a>
 
