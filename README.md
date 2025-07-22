@@ -70,3 +70,6 @@ I am motivated and passionate Software Engineer with a strong foundation in Pyth
 
 * **Git** - *Netology, 2025*
     * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/Git.pdf)
+
+* **OOP and API** - *Netology, 2025*
+    * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/OOP%20and%20API.pdf)
