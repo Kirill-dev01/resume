@@ -58,3 +58,15 @@ A motivated and passionate Software Engineer with a strong foundation in Python.
 * **Developing application for andriod**
 * **Game Development(Pygame)**
 
+---
+
+### 📜 My Certificates
+
+*You can click on the links to view the certificates.*
+
+* **Django: Creating backend applications** - *Netology, 2025*
+    * [View Certificate (DJ-120-9583979)](https://github.com/Kirill-dev01/resume/blob/main/certificate%20(5).pdf)
+
+* **OOP and working with API** - *Netology, 2025*
+    * [View Certificate (PYAPI-120-9583979)](https://github.com/Kirill-dev01/resume/blob/main/certificate%20(2).pdf)
+
