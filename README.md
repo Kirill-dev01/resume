@@ -1,7 +1,7 @@
 # Kirill Nikitenko
 *Software Engineer*
 
-A motivated and passionate Software Engineer with a strong foundation in Python. Equipped with hands-on experience developing applications and scripts from personal projects.  A quick learner dedicated to writing clean, efficient code. At the present moment, besides working on my own projects, I am studying Front-End development.
+A motivated and passionate Software Engineer with a strong foundation in Python. Equipped with hands-on experience developing applications and scripts from personal projects.  A quick learner dedicated to writing clean, efficient code. At the present moment, besides working on my own projects, I am studying Front-End development and Java.
 
 ---
 
@@ -54,8 +54,9 @@ A motivated and passionate Software Engineer with a strong foundation in Python.
 
 ### 🚀 What I'm Currently Working On
 
-* **Desktop POS System:** Building a comprehensive Point-of-Sale application using Python and Tkinter to manage sales, inventory, and reporting.
-* **RPG Game Development:** Pursuing my passion for gaming by creating an RPG with complex logic using Pygame.
-* **Full-stack Python Program:** Formally expanding my knowledge at Netology (Expected graduation: July 2026).
+* **Desktop POS System:**
+* **Developing application for andriod:**
+* **Game Development(Pygame):**
+* **Full-stack Python Program:** Studying at Netology (Expected graduation: July 2026).
 
 
