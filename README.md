@@ -14,6 +14,9 @@ I am a motivated and passionate Software Engineer, currently developing my skill
 <a href="https://github.com/Kirill-dev01/resume/blob/main/Nikitenko-Kirill-Resume(eng).pdf" target="_blank">
 <img src="https://img.shields.io/badge/Download-My_Resume_(PDF)-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/>
 </a>
+<a href="https://github.com/Kirill-dev01/resume/raw/main/Никитенко%20Кирилл%2C%20резюме.pdf" target="_blank">
+<img src="https://img.shields.io/badge/Download-Мое_Резюме_(PDF)-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/>
+</a>
 <a href="https://github.com/Kirill-dev01/resume/blob/main/Никитенко%20Кирилл%2C%20резюме.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Download-Мое_Резюме_(PDF)-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/>
 </a>
