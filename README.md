@@ -8,12 +8,12 @@ I am a motivated and passionate Software Engineer, currently developing my skill
 ### 🤝 Connect with Me & Download My Resume
 
 
-<a href="https://github.com/Kirill-dev01/resume/blob/main/Nikitenko-Kirill-Resume(eng).pdf" target="_blank"><img src="https://img.shields.io/badge/View_Resume-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Resume"/></a>
-<a href="https://github.com/Kirill-dev01/resume/raw/main/Nikitenko-Kirill-Resume(eng).pdf" target="_blank"><img src="https://img.shields.io/badge/Download_Resume-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/></a>
+<a href="https://github.com/Kirill-dev01/resume/blob/main/Nikitenko%20Kirill%20Resume(eng).pdf" target="_blank"><img src="https://img.shields.io/badge/View_Resume-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Resume"/></a>
+<a href="https://github.com/Kirill-dev01/resume/raw/main/Nikitenko%20Kirill%20Resume(eng).pdf" target="_blank"><img src="https://img.shields.io/badge/Download_Resume-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/></a>
 <br>
 
-<a href="https://github.com/Kirill-dev01/resume/blob/main/Никитенко%20Кирилл%2C%20резюме.pdf" target="_blank"><img src="https://img.shields.io/badge/Посмотреть_Резюме-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Russian Resume"/></a>
-<a href="https://github.com/Kirill-dev01/resume/raw/main/Никитенко%20Кирилл%2C%20резюме.pdf" target="_blank"><img src="https://img.shields.io/badge/Скачать_Резюме-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Russian Resume"/></a>
+<a href="https://github.com/Kirill-dev01/resume/blob/main/Никитенко%20Кирилл%20резюме.pdf" target="_blank"><img src="https://img.shields.io/badge/Посмотреть_Резюме-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Russian Resume"/></a>
+<a href="https://github.com/Kirill-dev01/resume/raw/main/Никитенко%20Кирилл%20резюме.pdf" target="_blank"><img src="https://img.shields.io/badge/Скачать_Резюме-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Russian Resume"/></a>
 <br>
 <br>
 
