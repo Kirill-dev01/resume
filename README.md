@@ -1,7 +1,7 @@
 # Kirill Nikitenko
 *Software Engineer*
 
-I am a motivated and passionate Software Engineer, currently developing my skills as a Python programmer. I have hands-on experience developing applications and scripts through personal projects and am a quick learner dedicated to writing clean, efficient code. Currently, in addition to my personal projects, I am studying Front-End development and Java.
+I am a motivated and passionate Software Engineer, currently developing my skills as a Python programmer. I have hands-on experience developing applications and scripts through personal projects and am a quick learner dedicated to writing clean, efficient code. Currently, in addition to my personal projects, I am studying Front-End development, Java and Unity.
 
 ---
 
