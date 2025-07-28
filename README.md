@@ -54,7 +54,7 @@ I am a motivated and passionate Software Engineer, currently developing my skill
 
 ### 🚀 What I'm Currently Working On
 
-* **[Desktop POS System](https://github.com/Kirill-dev01/Cafe-POS)**
+* **[POS System](https://github.com/Kirill-dev01/Cafe-POS)**
 * **Developing application for andriod**
 * **Game Development(Pygame)**
 
