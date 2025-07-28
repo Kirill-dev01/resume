@@ -60,6 +60,11 @@ I am a motivated and passionate Software Engineer, currently developing my skill
 
 ---
 
+### ✅ Already Finished Projects
+* **[Telegram Vocabulary Bot](https://github.com/Kirill-dev01/telbot)**: чат-бот для Telegram, предназначенный для изучения английской лексики с помощью интерактивных тестов.
+
+---
+
 ### 📜 My Certificates
 
 * **Django** - *Netology, 2025*
