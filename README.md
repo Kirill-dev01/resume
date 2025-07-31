@@ -62,6 +62,7 @@ Currently I am studying Python Full-Stack development. I have experience develop
 
 ### ✅ Already Finished Projects
 * **[Telegram Vocabulary Bot](https://github.com/Kirill-dev01/telbot)**: чат-бот для Telegram, предназначенный для изучения английской лексики с помощью интерактивных тестов.
+* **[Chatbot vkontakte](https://github.com/Kirill-dev01/bot_vkontakte/tree/master)**: чат-бот для знакомств в социальной сети ВКонтакте. .
 
 ---
 
