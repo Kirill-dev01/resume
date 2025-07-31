@@ -12,7 +12,7 @@ I am a motivated and passionate Software Engineer, currently developing my skill
 <a href="https://github.com/Kirill-dev01/resume-certificates/raw/master/Nikitenko-Kirill-Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_Resume-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/></a>
 <br>
 
-<a href="https://github.com/Kirill-dev01/resume-certificates/blob/master/Никитенко-Кирилл-резюме.pdff" target="_blank"><img src="https://img.shields.io/badge/Посмотреть_Резюме-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Russian Resume"/></a>
+<a href="https://github.com/Kirill-dev01/resume-certificates/blob/master/Никитенко-Кирилл-резюме.pdf" target="_blank"><img src="https://img.shields.io/badge/Посмотреть_Резюме-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Russian Resume"/></a>
 <a href="https://github.com/Kirill-dev01/resume-certificates/raw/master/Никитенко-Кирилл-резюме.pdf" target="_blank"><img src="https://img.shields.io/badge/Скачать_Резюме-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Russian Resume"/></a>
 <br>
 <br>
