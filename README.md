@@ -8,12 +8,12 @@ I am a motivated and passionate Software Engineer, currently developing my skill
 ### 🤝 Connect with Me & Download My Resume
 
 
-<a href="https://github.com/Kirill-dev01/resume/blob/main/Nikitenko%20Kirill%20Resume(eng).pdf" target="_blank"><img src="https://img.shields.io/badge/View_Resume-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Resume"/></a>
-<a href="https://github.com/Kirill-dev01/resume/raw/main/Nikitenko%20Kirill%20Resume(eng).pdf" target="_blank"><img src="https://img.shields.io/badge/Download_Resume-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/></a>
+<a href="https://github.com/Kirill-dev01/resume-certificates/blob/master/Nikitenko-Kirill-Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/View_Resume-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Resume"/></a>
+<a href="https://github.com/Kirill-dev01/resume-certificates/raw/master/Nikitenko-Kirill-Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_Resume-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Resume"/></a>
 <br>
 
-<a href="https://github.com/Kirill-dev01/resume/blob/main/Никитенко%20Кирилл%20резюме.pdf" target="_blank"><img src="https://img.shields.io/badge/Посмотреть_Резюме-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Russian Resume"/></a>
-<a href="https://github.com/Kirill-dev01/resume/raw/main/Никитенко%20Кирилл%20резюме.pdf" target="_blank"><img src="https://img.shields.io/badge/Скачать_Резюме-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Russian Resume"/></a>
+<a href="https://github.com/Kirill-dev01/resume-certificates/blob/master/Никитенко-Кирилл-резюме.pdff" target="_blank"><img src="https://img.shields.io/badge/Посмотреть_Резюме-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Russian Resume"/></a>
+<a href="https://github.com/Kirill-dev01/resume-certificates/raw/master/Никитенко-Кирилл-резюме.pdf" target="_blank"><img src="https://img.shields.io/badge/Скачать_Резюме-33A6B5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Russian Resume"/></a>
 <br>
 <br>
 
@@ -68,16 +68,16 @@ I am a motivated and passionate Software Engineer, currently developing my skill
 ### 📜 My Certificates
 
 * **Django** - *Netology, 2025*
-    * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/Django.pdf)
+    * [View Certificate](https://github.com/Kirill-dev01/resume-certificates/blob/master/Django.pdf)
 
 * **Database** - *Netology, 2025*
-    * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/Data%20base.pdf)
+    * [View Certificate](https://github.com/Kirill-dev01/resume-certificates/blob/master/Database.pdf)
 
 * **Git** - *Netology, 2025*
-    * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/Git.pdf)
+    * [View Certificate](https://github.com/Kirill-dev01/resume-certificates/blob/master/Git.pdf)
 
 * **OOP and API** - *Netology, 2025*
-    * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/OOP%20and%20API.pdf)
+    * [View Certificate](https://github.com/Kirill-dev01/resume-certificates/blob/master/OOP-API.pdf)
 
 * **Python** - *Netology, 2025*
-    * [View Certificate](https://github.com/Kirill-dev01/resume/blob/main/Professional%20work%20with%20Python.pdf)
+    * [View Certificate](https://github.com/Kirill-dev01/resume-certificates/blob/master/Python.pdf)
