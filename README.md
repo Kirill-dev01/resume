@@ -67,17 +67,8 @@ I am a motivated and passionate Software Engineer, currently developing my skill
 
 ### 📜 My Certificates
 
-* **Django** - *Netology, 2025*
-    * [View Certificate](https://github.com/Kirill-dev01/resume-certificates/blob/master/Django.pdf)
-
-* **Database** - *Netology, 2025*
-    * [View Certificate](https://github.com/Kirill-dev01/resume-certificates/blob/master/Database.pdf)
-
-* **Git** - *Netology, 2025*
-    * [View Certificate](https://github.com/Kirill-dev01/resume-certificates/blob/master/Git.pdf)
-
-* **OOP and API** - *Netology, 2025*
-    * [View Certificate](https://github.com/Kirill-dev01/resume-certificates/blob/master/OOP-API.pdf)
-
-* **Python** - *Netology, 2025*
-    * [View Certificate](https://github.com/Kirill-dev01/resume-certificates/blob/master/Python.pdf)
+| Certificates | Certificates |
+| :--- | :--- |
+| **[Django](https://github.com/Kirill-dev01/resume-certificates/blob/master/Django.pdf)** - *Netology, 2025* | **[OOP and API](https://github.com/Kirill-dev01/resume-certificates/blob/master/OOP-API.pdf)** - *Netology, 2025* |
+| **[Database](https://github.com/Kirill-dev01/resume-certificates/blob/master/Database.pdf)** - *Netology, 2025* | **[Python](https://github.com/Kirill-dev01/resume-certificates/blob/master/Python.pdf)** - *Netology, 2025* |
+| **[Git](https://github.com/Kirill-dev01/resume-certificates/blob/master/Git.pdf)** - *Netology, 2025* | |
