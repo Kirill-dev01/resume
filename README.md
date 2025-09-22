@@ -54,9 +54,7 @@ Currently I am studying Python Full-Stack development. I have experience develop
 
 ### 🚀 What I'm Currently Working On
 
-* **[POS System](https://github.com/Kirill-dev01/Cafe-POS)**
 * **Developing application for andriod(Japanese Study app for English and Russian speakers, planned release in the google store beginning of October)**
-* **Game Development(Pygame)**
 
 ---
 
