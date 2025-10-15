@@ -71,4 +71,4 @@ Currently I am studying Python Full-Stack development. I have experience develop
 | :--- | :--- |
 | **[Django](https://github.com/Kirill-dev01/resume-certificates/blob/master/Django.pdf)** - *Netology, 2025* | **[OOP and API](https://github.com/Kirill-dev01/resume-certificates/blob/master/OOP-API.pdf)** - *Netology, 2025* |
 | **[Database](https://github.com/Kirill-dev01/resume-certificates/blob/master/Database.pdf)** - *Netology, 2025* | **[Python](https://github.com/Kirill-dev01/resume-certificates/blob/master/Python.pdf)** - *Netology, 2025* |
-| **[Git](https://github.com/Kirill-dev01/resume-certificates/blob/master/Git.pdf)** - *Netology, 2025* | | **[HTML&CSS](https://github.com/Kirill-dev01/resume-certificates/blob/master/HTML%20and%20CSS.pdf)** - *Netology, 2025* | 
+| **[Git](https://github.com/Kirill-dev01/resume-certificates/blob/master/Git.pdf)** - *Netology, 2025* | **[HTML and CSS](https://github.com/Kirill-dev01/resume-certificates/blob/master/HTML%20and%20CSS.pdf)** - *Netology, 2025* |
