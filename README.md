@@ -27,25 +27,48 @@ Currently I am studying Python Full-Stack development. I have experience develop
 <table>
   <tr>
     <td align="center" width="96">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40" height="40" alt="Android" /></a><br>Android
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /></a><br>Kotlin
+    </td>
+     <td align="center" width="96">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" /></a><br>SQLite & Room
+    </td>
+    <td align="center" width="96">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a><br>Java
+    </td>
+    <td align="center" width="96">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a><br>Python
     </td>
     <td align="center" width="96">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" /></a><br>Django
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /></a><br>Flask
     </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a><br>Java
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a><br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a><br>Docker
     </td>
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a><br>Git
+    </td>
+    <td align="center" width="96">
+      <!-- Empty cell for alignment -->
+    </td>
+     <td align="center" width="96">
+      <!-- Empty cell for alignment -->
+    </td>
+     <td align="center" width="96">
+      <!-- Empty cell for alignment -->
+    </td>
+    <td align="center" width="96">
+      <!-- Empty cell for alignment -->
     </td>
   </tr>
 </table>
