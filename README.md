@@ -85,6 +85,7 @@ Currently I am studying Python Full-Stack development. I have experience develop
 * **[Telegram Vocabulary Bot](https://github.com/Kirill-dev01/telbot)**: A Telegram chatbot designed for studying English vocabulary by means of interactive tests.
 * **[Chatbot vkontakte](https://github.com/Kirill-dev01/bot_vkontakte/tree/master)**: A dating chatbot for VK.
 * **[Telegram service bot](https://github.com/Kirill-dev01/Service_Bot)**: An assistant bot for service applications.
+* **[Adaptive Layout of the "NOÉMI" Website]((https://github.com/Kirill-dev01/noemi-project))**
 
 ---
 
