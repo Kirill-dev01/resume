@@ -48,6 +48,8 @@ Currently I am studying Python Full-Stack development. I have experience develop
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /></a><br>Flask
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a><br>PostgreSQL
