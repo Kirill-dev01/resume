@@ -59,17 +59,16 @@ Currently I am studying Python Full-Stack development. I have experience develop
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a><br>Git
     </td>
     <td align="center" width="96">
-      <!-- Empty cell for alignment -->
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></a><br>HTML5
     </td>
      <td align="center" width="96">
-      <!-- Empty cell for alignment -->
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></a><br>CSS3
     </td>
      <td align="center" width="96">
-      <!-- Empty cell for alignment -->
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a><br>JavaScript
     </td>
     <td align="center" width="96">
-      <!-- Empty cell for alignment -->
-    </td>
+      </td>
   </tr>
 </table>
 
