@@ -84,11 +84,11 @@ Currently I am studying Python Full-Stack development. I have experience develop
 
 ### ✅ Projects
 * **[Nihongo Quest: Learn Japanese](https://play.google.com/store/apps/details?id=com.nkdevworks.japanesestudyapp&hl=en)**: Independently designed, developed, and published this Android application using Kotlin. Features include an interactive text story game for practice, Kanji study, vocabulary lists, and grammar rules.<br><a href="https://play.google.com/store/apps/details?id=com.nkdevworks.japanesestudyapp&hl=en"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
+* **[Advanced JavaScript Diploma Project](https://github.com/Kirill-dev01/js-advanced-diploma)**: Diploma project for the "JavaScript: Advanced Web Development" course. ([Live Demo](https://kirill-dev01.github.io/js-advanced-diploma/))
+* **[Adaptive Layout of the "NOÉMI" Website](https://github.com/Kirill-dev01/noemi-project)**
 * **[Telegram Vocabulary Bot](https://github.com/Kirill-dev01/telbot)**: A Telegram chatbot designed for studying English vocabulary by means of interactive tests.
 * **[Chatbot vkontakte](https://github.com/Kirill-dev01/bot_vkontakte/tree/master)**: A dating chatbot for VK.
 * **[Telegram service bot](https://github.com/Kirill-dev01/Service_Bot)**: An assistant bot for service applications.
-* **[Adaptive Layout of the "NOÉMI" Website](https://github.com/Kirill-dev01/noemi-project)**
-* **[JavaScript Advanced Diploma](https://github.com/Kirill-dev01/js-advanced-diploma)**: Diploma project for the "JavaScript: Advanced Web Development" course. ([Live Demo](https://kirill-dev01.github.io/js-advanced-diploma/))
 
 ---
 
