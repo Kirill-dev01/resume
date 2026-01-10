@@ -78,11 +78,13 @@ Currently I am studying Python Full-Stack development. I have experience develop
 
 ### 🚀 What I'm Currently Working On
 
-* **Developing application for andriod(Japanese Study app for English and Russian speakers, planned release in the google store beginning of October)**
+* **Developing new features and content updates for "Nihongo Quest" (Android)**
 
 ---
 
 ### ✅ Projects
+* **[Nihongo Quest: Learn Japanese](https://play.google.com/store/apps/details?id=com.nkdevworks.japanesestudyapp&hl=en)**: A published Android application designed for English and Russian speakers to learn Japanese. Features include Kanji study, vocabulary lists, and grammar rules.
+<a href="https://play.google.com/store/apps/details?id=com.nkdevworks.japanesestudyapp&hl=en"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="50"/></a>
 * **[Telegram Vocabulary Bot](https://github.com/Kirill-dev01/telbot)**: A Telegram chatbot designed for studying English vocabulary by means of interactive tests.
 * **[Chatbot vkontakte](https://github.com/Kirill-dev01/bot_vkontakte/tree/master)**: A dating chatbot for VK.
 * **[Telegram service bot](https://github.com/Kirill-dev01/Service_Bot)**: An assistant bot for service applications.
