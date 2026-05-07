@@ -1,7 +1,7 @@
 # Kirill Nikitenko
 *Software Engineer*
 
-Currently I am studying Python Full-Stack development. I have experience developing applications and scripts through personal projects. I have completed Backend development course. In addition to my personal projects, I am studying Front-End development and Java. 
+Currently, I am studying Python Full-Stack development. I have experience developing applications and scripts through personal projects. I have completed a Backend development course, and in addition to my personal projects, I am actively studying Front-End development and Java.
 
 ---
 
@@ -24,6 +24,7 @@ Currently I am studying Python Full-Stack development. I have experience develop
 ---
 
 ### 👨‍💻 My Tech Stack
+### 📱 Mobile Development
 <table>
   <tr>
     <td align="center" width="96" height="96" valign="top">
@@ -32,57 +33,78 @@ Currently I am studying Python Full-Stack development. I have experience develop
     <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /></a><br>Kotlin
     </td>
-     <td align="center" width="96" height="96" valign="top">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" /></a><br>SQLite & Room
-    </td>
     <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /></a><br>Java
     </td>
+    <td align="center" width="96" height="96" valign="top">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" /></a><br>SQLite & Room
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Backend & Database
+<table>
+  <tr>
     <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a><br>Python
     </td>
     <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" /></a><br>Django
     </td>
-     <td align="center" width="96" height="96" valign="top">
+    <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /></a><br>Flask
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
+    <td align="center" width="96" height="96" valign="top">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /></a><br>Node.js
+    </td>
     <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a><br>PostgreSQL
     </td>
+  </tr>
+</table>
+
+### 💻 Frontend
+<table>
+  <tr>
     <td align="center" width="96" height="96" valign="top">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a><br>Docker
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a><br>JavaScript
     </td>
     <td align="center" width="96" height="96" valign="top">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a><br>Git
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /></a><br>React
+    </td>
+    <td align="center" width="96" height="96" valign="top">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" /></a><br>Redux
     </td>
     <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></a><br>HTML5
     </td>
-     <td align="center" width="96" height="96" valign="top">
+    <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></a><br>CSS3
     </td>
-     <td align="center" width="96" height="96" valign="top">
-      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a><br>JavaScript
-    </td>
-    <td align="center" width="96" height="96" valign="top">
-      </td>
   </tr>
 </table>
 
----
+### 🛠 Tools
+<table>
+  <tr>
+    <td align="center" width="96" height="96" valign="top">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a><br>Git
+    </td>
+    <td align="center" width="96" height="96" valign="top">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a><br>Docker
+    </td>
+  </tr>
+</table>
 
 ### 🚀 What I'm Currently Working On
-
 * **Developing new features and content updates for "Nihongo Quest" (Android)**
+* **Preparing an upcoming Money Management app for release on Android**
+* **Developing a new mobile game for Android**
 
 ---
 
 ### ✅ Projects
+* **[Boutique Hotel Reservation System](https://github.com/Kirill-dev01/samui_hotel_project)**: Full-stack Django web application deployed on a remote Linux server (PythonAnywhere). Engineered a dynamic booking interface and integrated a MySQL database for data management. ([Live Prototype](https://kirillnk89.pythonanywhere.com))
 * **[Nihongo Quest: Learn Japanese](https://play.google.com/store/apps/details?id=com.nkdevworks.japanesestudyapp&hl=en)**: Independently designed, developed, and published this Android application using Kotlin. Features include an interactive text story game for practice, Kanji study, vocabulary lists, and grammar rules.<br><a href="https://play.google.com/store/apps/details?id=com.nkdevworks.japanesestudyapp&hl=en"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
 * **[Advanced JavaScript Diploma Project](https://github.com/Kirill-dev01/js-advanced-diploma)**: Diploma project for the "JavaScript: Advanced Web Development" course. ([Live Demo](https://kirill-dev01.github.io/js-advanced-diploma/))
 * **[Adaptive Layout of the "NOÉMI" Website](https://github.com/Kirill-dev01/noemi-project)**
