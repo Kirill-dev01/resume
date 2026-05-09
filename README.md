@@ -1,7 +1,7 @@
 # Kirill Nikitenko
 *Software Engineer*
 
-Currently, I am studying Python Full-Stack development. I have experience developing applications and scripts through personal projects. I have completed a Backend development course, and in addition to my personal projects, I am actively studying Front-End development and Java.
+Currently, I am completing a Python Full-Stack development program (expected graduation: August 2026). I have experience developing applications and scripts through personal projects. I have completed a Backend development course, and in addition to my personal projects, I am actively studying Front-End development and Java and Unity.
 
 ---
 
