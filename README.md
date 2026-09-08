@@ -1,7 +1,7 @@
 # Kirill Nikitenko
 *Software Engineer*
 
-Currently, I am completing a Python Full-Stack development program (expected graduation: August 2026). I have experience developing applications and scripts through personal projects. I have completed a Backend development course, and in addition to my personal projects, I am actively studying Front-End development and Java and Unity.
+Software Engineer specializing in full-stack web and Android development. I build, deploy, and manage live commercial applications using Kotlin, Python/Django, and modern JavaScript frameworks. Passionate about creating scalable backend architectures and intuitive mobile experiences.
 
 ---
 
@@ -39,6 +39,9 @@ Currently, I am completing a Python Full-Stack development program (expected gra
     <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" /></a><br>SQLite & Room
     </td>
+    <td align="center" width="96" height="96" valign="top">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="40" height="40" alt="Jetpack Compose" /></a><br>Compose
+    </td>
   </tr>
 </table>
 
@@ -59,6 +62,9 @@ Currently, I am completing a Python Full-Stack development program (expected gra
     </td>
     <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" /></a><br>PostgreSQL
+    </td>
+    <td align="center" width="96" height="96" valign="top">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /></a><br>MySQL
     </td>
   </tr>
 </table>
@@ -93,23 +99,24 @@ Currently, I am completing a Python Full-Stack development program (expected gra
     <td align="center" width="96" height="96" valign="top">
       <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a><br>Docker
     </td>
+    <td align="center" width="96" height="96" valign="top">
+      <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /></a><br>GitHub
+    </td>
   </tr>
 </table>
 
-### 🚀 What I'm Currently Working On
-* **Developing new features and content updates for "Nihongo Quest" (Android)**
-* **Preparing an upcoming Money Management app for release on Android**
-* **Developing a new mobile game for Android**
-
 ---
 
-### ✅ Projects
-* **[React Shoes Shop](https://github.com/Kirill-dev01/react-shoes-shop)**: Diploma project for the "React" course. A complete client-side web interface (Frontend) for an online shoe store utilizing modern tools like React, Redux Toolkit, and React Router v6.
-* Boutique Hotel Reservation System: Full-stack Django web application deployed on a remote Linux server (PythonAnywhere). Engineered a dynamic booking interface and integrated a MySQL database for data management. ([Live Prototype](https://kirillnk89.pythonanywhere.com))
-* **[Nihongo Quest: Learn Japanese](https://play.google.com/store/apps/details?id=com.nkdevworks.japanesestudyapp&hl=en)**: Independently designed, developed, and published this Android application using Kotlin. Features include an interactive text story game for practice, Kanji study, vocabulary lists, and grammar rules.<br><a href="https://play.google.com/store/apps/details?id=com.nkdevworks.japanesestudyapp&hl=en"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
-* **[Advanced JavaScript Diploma Project](https://github.com/Kirill-dev01/js-advanced-diploma)**: Diploma project for the "JavaScript: Advanced Web Development" course. ([Live Demo](https://kirill-dev01.github.io/js-advanced-diploma/))
-* **[Adaptive Layout of the "NOÉMI" Website](https://github.com/Kirill-dev01/noemi-project)**
-* **[Telegram Vocabulary Bot](https://github.com/Kirill-dev01/telbot)**: A Telegram chatbot designed for studying English vocabulary by means of interactive tests.
+### 🚀 Published Apps & Commercial Releases
+* **[Vault: Your Money Tracker](https://play.google.com/store/apps/details?id=com.nkdevworks.mymoneytracker&hl=en)**: Engineered and launched an offline personal finance and expense tracking application for Android, utilizing Kotlin and local database management.<br><a href="https://play.google.com/store/apps/details?id=com.nkdevworks.mymoneytracker&hl=en"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
+* **[Nihongo Quest: Learn Japanese](https://play.google.com/store/apps/details?id=com.nkdevworks.japanesestudyapp&hl=en)**: Independently designed, developed, and published a comprehensive Android study application. Features include an interactive text story game, Kanji study, vocabulary lists, and grammar rules.<br><a href="https://play.google.com/store/apps/details?id=com.nkdevworks.japanesestudyapp&hl=en"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"/></a>
+* **Boutique Hotel Reservation System**: Full-stack Django web application deployed on a remote Linux server (PythonAnywhere). Engineered a dynamic booking interface and integrated a MySQL database for data management, currently operating as a live pre-production prototype for a November 2026 launch. ([Live Prototype](https://kirillnk89.pythonanywhere.com))
+
+### 💻 Technical Projects & Prototypes
+* **[Bosa Noga (E-Commerce Frontend)](https://github.com/Kirill-dev01/react-shoes-shop)**: A complete client-side web interface for an online shoe store utilizing modern frontend tools including React, Redux Toolkit, and React Router v6.
+* **[Telegram Vocabulary Bot](https://github.com/Kirill-dev01/telbot)**: A Telegram chatbot built with Python designed for studying English vocabulary through automated, interactive testing.
+* **[Advanced JavaScript Web Game](https://github.com/Kirill-dev01/js-advanced-diploma)**: Engineered an object-oriented browser game utilizing pure JavaScript (ES6+). ([Live Demo](https://kirill-dev01.github.io/js-advanced-diploma/))
+* **[Adaptive Layout of the "NOÉMI" Website](https://github.com/Kirill-dev01/noemi-project)**: Implemented a fully responsive, fluid grid layout optimized for cross-browser compatibility using HTML5 and CSS3.
 
 ---
 
